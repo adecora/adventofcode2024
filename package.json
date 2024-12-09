@@ -1,0 +1,8 @@
+{
+  "name": "aoc-2024",
+  "version": "1.0.0",
+  "description": "Solucions para el Advent of Code 2024",
+  "author": "Alejandro Varela de Cora",
+  "type": "module",
+  "license": "MIT"
+}
